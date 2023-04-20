@@ -2,3 +2,5 @@
 let edad = prompt("¿Cuál es tu edad?");
  
 Contraseña:stars0210  ID:Xyzygy
+
+frfrfrfrfrf
