@@ -10,4 +10,13 @@ RRRRRRRRR
 swsws
 wswswsdw
 swswsw
+dcd
+cdd
+calldc
+dcddcdcd
+cddcd
+cddcdcd
+cddcdcddcd
+cddcddc
+dcdcd
 
